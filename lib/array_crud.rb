@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  Chicago_Bulls = [Jordan, Rodman, Pipman, Phil]
+  Chicago_Bulls = ["Jordan", "Rodman", "Pippmen", "Jackson"]
 end
 
 def add_element_to_end_of_array(array, element)
